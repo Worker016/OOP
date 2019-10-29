@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Pract1\Pract1\bin\Debug\Pract1.exe.config
+C:\Users\dell\source\repos\Pract1\Pract1\bin\Debug\Pract1.exe
+C:\Users\dell\source\repos\Pract1\Pract1\bin\Debug\Pract1.pdb
+C:\Users\dell\source\repos\Pract1\Pract1\obj\Debug\Pract1.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Pract1\Pract1\obj\Debug\Pract1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Pract1\Pract1\obj\Debug\Pract1.exe
+C:\Users\dell\source\repos\Pract1\Pract1\obj\Debug\Pract1.pdb
