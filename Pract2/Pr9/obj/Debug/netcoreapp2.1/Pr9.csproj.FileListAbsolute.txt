@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Pract2\Pr9\bin\Debug\netcoreapp2.1\Pr9.deps.json
+C:\Users\dell\source\repos\Pract2\Pr9\bin\Debug\netcoreapp2.1\Pr9.runtimeconfig.json
+C:\Users\dell\source\repos\Pract2\Pr9\bin\Debug\netcoreapp2.1\Pr9.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Pract2\Pr9\bin\Debug\netcoreapp2.1\Pr9.dll
+C:\Users\dell\source\repos\Pract2\Pr9\bin\Debug\netcoreapp2.1\Pr9.pdb
+C:\Users\dell\source\repos\Pract2\Pr9\obj\Debug\netcoreapp2.1\Pr9.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Pract2\Pr9\obj\Debug\netcoreapp2.1\Pr9.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Pract2\Pr9\obj\Debug\netcoreapp2.1\Pr9.AssemblyInfo.cs
+C:\Users\dell\source\repos\Pract2\Pr9\obj\Debug\netcoreapp2.1\Pr9.dll
+C:\Users\dell\source\repos\Pract2\Pr9\obj\Debug\netcoreapp2.1\Pr9.pdb
